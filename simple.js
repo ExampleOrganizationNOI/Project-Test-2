@@ -1,2 +1,2 @@
 log("Say Hello to the Nice People")
-log("Roger that")
+log("Roger that, if they're nice")
